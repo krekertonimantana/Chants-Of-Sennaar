@@ -228,4 +228,4 @@ Chants of Sennaar is available as a full free version, providing all features an
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-03 16:51:20 UTC
+**Last updated:** 2026-10-03 19:35:12 UTC
